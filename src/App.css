@@ -1,0 +1,6 @@
+.App {
+
+  min-height: 100vh;
+  background-color: #5dfaff;
+  background-image: linear-gradient(160deg, #5dfaff 0%, #1881eb 100%);
+}
